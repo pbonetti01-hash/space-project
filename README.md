@@ -23,6 +23,7 @@ A Unity-based technical art study focused on environment interaction, shaders, a
     * Animated the window shutters opening to reveal the space view.
 
 Youtube Preview: https://youtu.be/looF-87yOq0?si=UZ62RfBipZ89HRsL
+Google Drive: https://drive.google.com/drive/folders/1Rv8_V95EWGBeCkAQ-qJvIcswsKisjimm?usp=sharing
 
 ## Credits
 * **Spaceship Model:** Third-party asset.
