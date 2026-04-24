@@ -22,6 +22,8 @@ A Unity-based technical art study focused on environment interaction, shaders, a
     * Set up the button trigger logic.
     * Animated the window shutters opening to reveal the space view.
 
+Youtube Preview: https://youtu.be/looF-87yOq0?si=UZ62RfBipZ89HRsL
+
 ## Credits
 * **Spaceship Model:** Third-party asset.
 * **Space Skybox:** "Free Skyboxes - Space" from the Unity Asset Store.
